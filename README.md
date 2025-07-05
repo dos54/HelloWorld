@@ -2,7 +2,7 @@
 
 This is a simple program to print 'Hello World.' It is meant as an example and nothing more.
  
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/nxEDuwCFA7Y)
 
 # Development Environment
 
